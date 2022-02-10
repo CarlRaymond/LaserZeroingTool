@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/local/bin/gcc-8",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "macos-gcc-x64",
+            "compilerArgs": [
+                "-built-in-libraries /Applications/Arduino 2.app/Contents/Java/libraries",
+                "-libraries /Users/carl/Documents/Arduino/libraries"
+            ]
+        }
+    ],
+    "version": 4
+}
